@@ -1,0 +1,8 @@
+[
+  {
+    "name": "LatAnime",
+    "version": "1.0.0",
+    "url": "https://caos1428.github.io/proveedor-de-cloudstream-latanime/LatAnimeProvider.cs",
+    "types": ["anime"]
+  }
+]

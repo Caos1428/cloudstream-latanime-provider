@@ -1,0 +1,8 @@
+{
+  "name": "LatAnime Repo",
+  "description": "Extensión de LatAnime para Cloudstream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "plugin.json"
+  ]
+}
